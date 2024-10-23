@@ -17,4 +17,5 @@ Backend (Seperate terminal)
 # Additional needed changes
 1. Need to input OpenAI API Key in app.py
 2. Need to have the pdf documents on computer (creating this system right now)
+3. Need access to proper FAISS embeddings, code for initialization of this is located on Shaun's computer
 
