@@ -1,3 +1,5 @@
 __pycache__
 api_key.txt
 venv
+uscis_data
+.env
